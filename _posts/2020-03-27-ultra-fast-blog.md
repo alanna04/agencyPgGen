@@ -1,11 +1,9 @@
 ---
-layout: post
+
 title: Ultra Fast Blogging in this Mother Fucker
 date: 2020-03-27 12:02
-author: Alanna Golownia
 image: http://placehold.it/900x300
 lead: "Foxy fucking friday love.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-category: jekyll
 subtitle: create an ultra fast blog
 ---
  <p>Here we go now here we go now here we go here we go here we go now. Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman’s earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
